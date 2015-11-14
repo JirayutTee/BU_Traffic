@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 // Sound Effect
                 MediaPlayer buttonPlayer = MediaPlayer.create(getBaseContext(), R.raw.lion);
                 buttonPlayer.start();
+
             }   // event
         });
     }
