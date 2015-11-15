@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="times1">
+        <item>รถสวน</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+    </string-array>
+
+    <string-array name="times2">
+        <item>เลี้ยวซ้าย</item>
+        <item>ห้ามแซง</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+    </string-array>
+
+    <string-array name="times3">
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>ทางเข้า</item>
+        <item>เลี้ยวซ้าย</item>
+    </string-array>
+
+    <string-array name="times4">
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>หยุดตรวจ</item>
+    </string-array>
+
+    <string-array name="times5">
+        <item>จำกัดความเร็ว</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+        <item>เลี้ยวซ้าย</item>
+    </string-array>
+
+</resources>
